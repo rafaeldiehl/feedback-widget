@@ -1,0 +1,11 @@
+.widget-container {
+  @apply absolute bottom-5 right-5;
+}
+
+.widget-button {
+  @apply bg-brand-500 rounded-full px-3 h-12 text-white;
+}
+
+.chat-icon {
+  @apply w-6 h-6;
+}
